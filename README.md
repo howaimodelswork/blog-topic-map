@@ -13,3 +13,7 @@ This repository organizes educational blog topics related to how AI models work.
 - Evaluation and benchmarks
 - AI for coding
 - Safety and guardrails
+
+## About
+
+This repository supports the educational planning behind [HowAIModelsWork.com](https://www.howaimodelswork.com/).
